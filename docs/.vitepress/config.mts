@@ -2,9 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   title: "LuoH-AN API",
   description: "简洁高效，性能卓越",
   themeConfig: {
+    logo: '/images/LuoH-AN-LOGO.png'
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' }
@@ -63,6 +65,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    }
   }
 })
