@@ -18,7 +18,7 @@ export default defineConfig({
         link: "/introduce",
       },
       {
-        text: "快速上手",
+        text: "PicLibrary",
         items: [
           { text: "安装主题 💻", link: "/initall" },
           {
