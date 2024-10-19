@@ -1,25 +1,37 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: home
+layout: 主页
 
 hero:
   name: "LuoH-AN API"
-  text: "LuoH-AN API 是一个简洁高效的接口解决方案，专注于提供快速、可靠的数据访问和处理功能。该 API 采用现代化架构设计，支持多种请求方式，便于集成到不同类型的应用中。通过高度优化的请求处理，LuoH-AN API 提供出色的性能，适合高并发场景。"
-  tagline: My great project tagline
+  text: "简洁高效，性能卓越"
+  tagline: 为了卓越而生
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始使用
       link: /markdown-examples
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🚀
+    title: 简单
+    details: 免费搭建，简单部署
+  - icon: 😃
+    title: 易用
+    details: 功能丰富，兼容性强
+  - icon: 🛡️
+    title: 安全
+    details: 隐私安全，内容安全
+  - icon: ⌛️
+    title: 快速
+    details: 极致的访问速度，不再等待
+  - icon: 🌈
+    title: 个性
+    details: 高度自定义，配置全量
+  - icon: ⚙️
+    title: 深色
+    details: 高度适配的深色模式，让人眼前一亮
 ---
 
