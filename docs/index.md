@@ -17,7 +17,7 @@ hero:
       text: 关于
       link: https://blog.luoh-an.me/
   image:
-    src: /images/LUOH-AN-LOGO-STYLE3-1.png
+    src: /images/logo/style3-1.png
     alt: LuoH-AN API
 
 features:
