@@ -12,12 +12,12 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /markdown-examples
+      link: /introduce
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 关于
+      link: https://blog.luoh-an.me/
   image:
-    src: /LuoH-AN-LOGO.png
+    src: /images/LuoH-AN-LOGO.png
     alt: LuoH-AN API
 
 features:
