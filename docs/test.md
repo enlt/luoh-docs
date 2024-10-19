@@ -37,12 +37,7 @@ guide/index.md          -->    /guide/index.html (可以通过 /guide/ 访问)
 
 在当前目录，`右键用 vscode 打开` ，[没有的请自行安装VScode](https://yiov.top/website/VSCode.html)
 
-![](/vscode/vscode-01.png)
-
 然后按 [Ctrl+\`(~) 键](#基础配置) （ESC下面的那个键），调出终端，正式开始开发
-
-![](/vscode/vscode-02.png)
-
 
 展开右侧目录，找到 `config.mts`
 
@@ -56,9 +51,6 @@ guide/index.md          -->    /guide/index.html (可以通过 /guide/ 访问)
 │  └─ index.md
 └─ package.json
 ```
-
-![](/vscode/vscode-03.png)
-
 
 配置已经写好了，在此基础上修改就行了
 
