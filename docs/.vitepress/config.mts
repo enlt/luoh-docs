@@ -6,7 +6,7 @@ export default defineConfig({
   title: "LuoH-AN API",
   description: "简洁高效，性能卓越",
   themeConfig: {
-    logo: '/images/LuoH-AN-LOGO.png'
+    logo: '/images/LuoH-AN-LOGO.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' }
