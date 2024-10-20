@@ -1,7 +1,9 @@
 # Anime Image API
 
 ## 接口地址
-`https://api.luoh-an.me/PicLibrary/AnimeImage/`
+```get
+https://api.luoh-an.me/PicLibrary/AnimeImage/`
+```
 
 ## 请求方法
 `GET`
@@ -33,4 +35,4 @@
 
 `https://api.luoh-an.me/PicLibrary/AnimeImage/?t=anime/first&r=image`
 
-![AnimeImage](https://api.luoh_an.me/PicLibrary/AnimeImage/?t=anime/first&r=image)
+![AnimeImage](https://api.luoh-an.me/PicLibrary/AnimeImage/?t=anime/first&r=image)

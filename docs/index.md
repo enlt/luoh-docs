@@ -8,7 +8,7 @@ titleTemplate: 简洁高效，性能卓越
 hero:
   name: "LuoH-AN API"
   text: "简洁高效，性能卓越"
-  tagline: 为了卓越而生
+  tagline: 为了用户而生
   actions:
     - theme: brand
       text: 开始使用

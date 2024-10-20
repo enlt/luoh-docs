@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: "LuoH-AN API",
   description: "简洁高效，性能卓越",
+  cleanUrls:true,
   themeConfig: {
     logo: '/images/logo/style3-2.png',
     // https://vitepress.dev/reference/default-theme-config
