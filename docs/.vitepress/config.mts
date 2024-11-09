@@ -7,7 +7,7 @@ export default defineConfig({
   description: "简洁高效，性能卓越",
   cleanUrls:true,
   themeConfig: {
-    logo: '/images/logo/style3-2.png',
+    logo: '/images/logo/favicon.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' }
